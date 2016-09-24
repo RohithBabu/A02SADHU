@@ -1,0 +1,148 @@
+#vr{
+    width: 10%;
+    }
+p{
+text-align: left;
+font-style: italic;
+font-size: 125%;
+}
+#ooo{
+    align-content: right;
+}
+#pr{
+    box-shadow:0 4px 10px 0 #000;
+    width:46.07%;
+    padding:20px 10px 38px 20px;
+    margin:30px 0;
+    background:white;    
+    color:black;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: none;
+    font-style: italic;
+    }
+#roh{
+    box-shadow:0 4px 10px 0 #000;
+    width:46.07%;
+    padding:20px 10px 38px 20px;
+    margin:30px 0;
+    background:none;    
+    color:red;
+
+}
+#poti{
+    align-content: left;
+}
+ #tt{
+    width:30px;
+ }   
+#tq{
+    width:10%;;
+ }
+ #tw{
+    width:30px;
+ }
+ #te{
+    width:30px;
+ }
+li {
+    float: left;
+}
+#iop{
+    background-image: url("wallpaper4.jpg");
+}
+#qwerty{
+    box-shadow:0 4px 10px 0 #000;
+    width:100%;
+    padding:100px 100px 100px 20px;
+    margin:30px 0;
+    background:none;    
+    color:red;
+}
+
+li a {
+    display: block;
+    color:red;
+    font-style: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size:25;
+}
+#rr{
+    position:middle;
+}
+
+li a:hover:not(.active) {
+    background-color: white;
+}
+
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+body{
+background-image: url("wallpaper4.jpg");
+background-position: right top;
+background-repeat: no-repeat;
+background-size: 100%;
+font-size: 25;
+margin:80px 80px 80px 80px;
+background-color: white;
+}
+#ro{
+    box-shadow:0 4px 10px 0 #000;
+    width:46.07%;
+    padding:20px 10px 38px 20px;
+    margin:30px 0;
+    background:none;    
+    color:red;
+}
+#q{
+    background-image: url("wallpaper1.jpg");
+}
+#w{
+    background-image: url("wallpaper2.jpg");
+}
+#y{
+    background-image: url("wallpaper2.jpg");
+}
+
+
+#r{
+	align:right;
+	color: red;
+}
+#k{
+    color: red;
+}
+h1{ font-size: 200%;
+text-decoration: underline;
+text-align: center;
+color:#3B6EBF;}
+
+h2{font-size: 150%;
+text-decoration: underline;
+color:black;
+font-style: bold;
+}
+p{
+	text-align: center;
+    font-style: italic;
+    
+}
+#v{
+    color:red;
+}
